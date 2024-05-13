@@ -1,17 +1,5 @@
 # VAN-Blockchain
 
-### Work Distribution
-- Varun Nagpal : 
-    - Consensus of nodes
-    - Django API endpoints
-- Anant Kacholia : 
-    - Validation/Addition of transactions
-    - Proof of work Algorithm
-- Nishchay Nilabh : 
-    - Blockchain class structure
-    - Django API endpoints
-
-
 ## Proof of Work (PoW) Algorithm
 
 - Start with a Nonce Value of 1
@@ -68,4 +56,18 @@
 - Create user at port XYZ : ```python manage.py runserver XYZ```
 
 - Use any API Client (HTTPie, Postman, etc) to send and visualise responses for the above mentioned API endpoints.
+
+<hr>
+
+### Work Distribution
+- Varun Nagpal : 
+    - Consensus of nodes
+    - Django API endpoints
+- Anant Kacholia : 
+    - Validation/Addition of transactions
+    - Proof of work Algorithm
+- Nishchay Nilabh : 
+    - Blockchain class structure
+    - Django API endpoints
+
 
