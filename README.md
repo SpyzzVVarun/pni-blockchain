@@ -63,15 +63,15 @@
 
 - Install Django 2.2.6
 <br>
-`pip install django==2.2.6`
+```pip install django==2.2.6```
 
 - Enter PyChain folder
 <br>
-`cd PyChain`
+```cd PyChain```
 
 - Create user at port XYZ
 <br>
-`python manage.py runserver XYZ`
+```python manage.py runserver XYZ```
 
 - Use any API Client (HTTPie, Postman, etc) to send and visualise responses for the above mentioned API endpoints.
 
